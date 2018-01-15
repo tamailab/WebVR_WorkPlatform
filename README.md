@@ -1,53 +1,29 @@
 #WebVR_WorkPlatform
 
-![Badge Status](https://ci-as-a-service)
-
-OverviewOverviewOverview
-
 ## Description
 
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
-DescriptionDescriptionDescription
+WebVR_WorkPlatform is a framework for developing WebVR contents. 
 
 ***DEMO:***
 
-![Demo](https://image-url.gif)
+![Demo1](https://i.imgur.com/vymM5qF.jpg)
+![Demo2](https://i.imgur.com/66jDOuO.jpg)
+![Demo3](https://i.imgur.com/NEmwIBZ.jpg)
 
 ## Features
 
-- Awesome function
-- Awesome UI
-- ...
-
-For more information, see `awesome-tool --help`.
+- In this framework, you don't need to program. So anyone can develop WebVR contents.
+- If you have some VR devices, you can experience WebVR contents you created.
+- A panorama image you took named "sky0.jpg", and save to the WebVR_WorkPlatform file. Then, you can use the image as backgraund of WebVR. 
 
 ## Requirement
 
-- Requirement
-- Requirement
-- Requirement
+- Microsoft Edge 41.16299.15.0 or more
 
 ## Usage
 
-1. Usage
-2. Usage
-3. Usage
-
-## Installation
-
-    $ git clone https://github.com/b4b4r07/awesome-tool
-
-## Anything Else
-
-AnythingAnythingAnything
-AnythingAnythingAnything
-AnythingAnythingAnything
+Please refer to "How_To_Use".
 
 ## Author
 
-[@b4b4r07](https://twitter.com/b4b4r07)
-
-## License
-
-[MIT](http://b4b4r07.mit-license.org)
+[@y-y_tamailab](https://qiita.com/y-y_tamailab)
