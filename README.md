@@ -2,7 +2,8 @@
 
 ## Description
 
-WebVR_WorkPlatform is a framework for developing WebVR contents. 
+WebVR_WorkPlatform is a framework for developing WebVR contents.
+By the way, this platform is in Japanese.
 
 ***DEMO:***
 
@@ -23,6 +24,7 @@ WebVR_WorkPlatform is a framework for developing WebVR contents.
 ## Usage
 
 Please refer to "How_To_Use".
+This manual is in Japanese too.
 
 ## Author
 
