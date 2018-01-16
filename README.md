@@ -22,11 +22,11 @@ By the way, this platform is in Japanese.
 Please refer to "How_To_Use".
 This manual is in Japanese too.
 
-##Copyright
+## Copyright
 You are allowed to use Crypton's Vocaloid(Hatsune Miku, Kagamine Rin, and so on) stuffs (MMD models, songs, and so on) only if you follow the guideline set by Crypton Future Media, INC. for the usage of its characters.
 For detail, see http://piapro.net/en_for_creators.html
 
-##MMD assets license
+## MMD assets license
 The license of MMD assets used in index.html
 https://github.com/mrdoob/three.js/tree/dev/examples/models/mmd#readme
 
