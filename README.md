@@ -27,7 +27,7 @@ You are allowed to use Crypton's Vocaloid(Hatsune Miku, Kagamine Rin, and so on)
 For detail, see http://piapro.net/en_for_creators.html
 
 ## MMD assets license
-The license of MMD assets used in index.html
+The license of MMD assets used in index.html 
 https://github.com/mrdoob/three.js/tree/dev/examples/models/mmd#readme
 
 ## Author
