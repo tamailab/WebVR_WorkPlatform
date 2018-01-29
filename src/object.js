@@ -537,14 +537,12 @@ function edit1(i){
 function erase(i){
 	document.getElementById("field_"+i).innerHTML = '　オブジェクト' + i + '　<button onclick="reference(' + i + ')">復元する</button><br />';
 	document.getElementById("child_entity_"+i).innerHTML = '<a-entity id="old_entity_' + i + '"></a-entity>';	
-	backup(i);
 }
 
 //オブジェクトを復元
 function reference(i){
 	document.getElementById("field_"+i).innerHTML = '　オブジェクト' + i + '　<button onclick="erase(' + i + ')">消去する</button><br />';
 	document.getElementById("child_entity_"+i).innerHTML = eval('pre_object_'+ i + ';');
-	backup(i);
 }
 
 //オブジェクトの位置を変更
